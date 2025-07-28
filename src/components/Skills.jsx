@@ -10,10 +10,10 @@ function Skills() {
 
   const skills = [
     { name: 'React.js', level: 85, color: 'from-purple-600 to-blue-500' },
-    { name: 'JavaScript', level: 85, color: 'from-blue-500 to-purple-600' },
+    { name: 'Java', level: 85, color: 'from-blue-500 to-purple-600' },
     { name: 'Mysql', level: 65, color: 'from-purple-600 to-pink-500' },
     { name: 'Machine Learning', level: 90, color: 'from-blue-500 to-pink-500' },
-    { name: 'Java', level: 80, color: 'from-pink-500 to-blue-500' },
+    { name: 'JavaScript', level: 80, color: 'from-pink-500 to-blue-500' },
     { name: 'Github', level: 60, color: 'from-pink-500 to-blue-500' },
   ];
 
