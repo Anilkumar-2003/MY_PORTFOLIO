@@ -6,7 +6,7 @@ const FloatingDownloadButton = () => {
 
   const handleDownload = () => {
     const link = document.createElement('a');
-    link.href = 'https://drive.google.com/uc?export=download&id=1ep5yX9wzFVdqTT6t69Np8M2R8AWfH5eK';
+    link.href = 'https://drive.google.com/uc?export=download&id=1YSej5hejYYfpvcKMPVwwRqqmAH8TgQHX';
     link.download = 'Resume.pdf';
     document.body.appendChild(link);
     link.click();
