@@ -21,14 +21,14 @@ function About() {
       description: 'Building responsive and performant web applications using modern technologies.',
     },
     {
-      icon: <Palette className="w-8 h-8 text-blue-500" />,
-      title: 'Machine Learning',
-      description: 'Creating intuitive and beautiful user interfaces with attention to detail.',
-    },
-    {
       icon: <Globe2 className="w-8 h-8 text-pink-500" />,
       title: 'Full Stack',
       description: 'End-to-end development from database design to frontend implementation.',
+    },
+    {
+      icon: <Palette className="w-8 h-8 text-blue-500" />,
+      title: 'Machine Learning',
+      description: 'Creating intuitive and beautiful user interfaces with attention to detail.',
     },
   ];
 
