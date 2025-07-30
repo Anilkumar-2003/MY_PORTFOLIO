@@ -59,6 +59,15 @@ function Projects() {
       technologies: ['Google Forms','React', 'Node.js', 'Express.js'],
       link: 'https://github.com/Anilkumar-2003/Annual-Sports-Application',
       live: 'https://annual-sports-application.vercel.app/',
+    },{
+      id: 6,
+      title: 'TalentHuntPro - HR Consulting Application',
+      description: 'It is a leading HR consulting firm specializing in delivering talent intelligence and workforce solutions to multinational corporations.',
+      image: 'https://i.postimg.cc/Jn2w2BbW/develop-a-poster-College-Annual-Sports-Application-for-registration-in-size-16-9-like-thumbnil.jpg',
+      category: 'Web Development',
+      technologies: ['MongoDb','React', 'Node.js', 'Express.js'],
+      link: 'https://github.com/Anilkumar-2003',
+      live: 'https://talent-hunt-pro-hr-consulting-platf.vercel.app/',
     },
   ];
 
