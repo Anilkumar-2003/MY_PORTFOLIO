@@ -63,7 +63,7 @@ function Projects() {
       id: 6,
       title: 'TalentHuntPro - HR Consulting Application',
       description: 'It is a leading HR consulting firm specializing in delivering talent intelligence and workforce solutions to multinational corporations.',
-      image: 'https://i.postimg.cc/Jn2w2BbW/develop-a-poster-College-Annual-Sports-Application-for-registration-in-size-16-9-like-thumbnil.jpg',
+      image: 'https://i.postimg.cc/XvFbMTZp/Gemini-Generated-Image-eh05oweh05oweh05.png',
       category: 'Web Development',
       technologies: ['MongoDb','React', 'Node.js', 'Express.js'],
       link: 'https://github.com/Anilkumar-2003',
